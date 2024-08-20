@@ -6,16 +6,16 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-### Software Engineering: This is a discipline that involves the systematic application of engineering principles to the development, operation, and maintenance of software. It is important because it ensures that software is reliable, scalable, maintainable, and meets user needs, driving innovation in the technology industry.
+**Software Engineering**: This is a discipline that involves the systematic application of engineering principles to the development, operation, and maintenance of software. It is important because it ensures that software is reliable, scalable, maintainable, and meets user needs, driving innovation in the technology industry.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-### Structured Programming (1960s): Introduced a disciplined approach to programming, emphasizing on code readability and modularity.
+- **Structured Programming (1960s)**: Introduced a disciplined approach to programming, emphasizing on code readability and modularity.
 
-### Object-Oriented Programming (1970s-1980s): Brought in concepts like encapsulation, inheritance, and polymorphism, these concepts improved code reuse and organization.
+- **Object-Oriented Programming (1970s-1980s)**: Brought in concepts like encapsulation, inheritance, and polymorphism, these concepts improved code reuse and organization.
 
-### Agile Methodology (2001): This method marked a shift towards iterative development with a focus on customer collaboration and flexibility, transforming how software is built and adapted.
+-** Agile Methodology (2001)**: This method marked a shift towards iterative development with a focus on customer collaboration and flexibility, transforming how software is built and adapted.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
