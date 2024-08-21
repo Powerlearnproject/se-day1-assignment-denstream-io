@@ -15,7 +15,7 @@ Identify and describe at least three key milestones in the evolution of software
 
 - **Object-Oriented Programming (1970s-1980s)**: Brought in concepts like encapsulation, inheritance, and polymorphism, these concepts improved code reuse and organization.
 
--** Agile Methodology (2001)**: This method marked a shift towards iterative development with a focus on customer collaboration and flexibility, transforming how software is built and adapted.
+- ** Agile Methodology (2001)**: This method marked a shift towards iterative development with a focus on customer collaboration and flexibility, transforming how software is built and adapted.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
