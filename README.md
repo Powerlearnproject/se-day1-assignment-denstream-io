@@ -64,11 +64,24 @@ Software Engineering Day1 Assignment
 
 ### 7. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
+- **Unit Testing**: Tests individual pieces of code (like functions or methods) to ensure they work correctly.
+
+- **Integration Testing**: Checks that different modules or services work together as intended.
+
+- **System Testing**: Validates the entire system’s functionality against the specified requirements.
+
+- **Acceptance Testing**: Confirms that the software meets the user’s needs and is ready for deployment.
+
 
 # Part 2: Introduction to AI and Prompt Engineering
 
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+### 1. Define prompt engineering and discuss its importance in interacting with AI models.
 
+**Prompt engineering** involves crafting clear and specific inputs (prompts) to guide AI models in generating accurate and relevant responses. It’s crucial because well-designed prompts can significantly improve the quality of the AI’s output, making interactions more effective and useful
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+### 2. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+**Vague Prompt**: "Tell me about the weather."
+**Improved Prompt**: "What is the current temperature and weather condition in San Francisco?"
+**Why More Effective**: The improved prompt is specific and direct,which ensures that the AI provides relevant information about the exact location and aspects of the weather that were requested for 
