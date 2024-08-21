@@ -34,6 +34,10 @@ Software Engineering Day1 Assignment
 
 ### 4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+- **Waterfall**: A linear approach where each phase must be completed before the next begins. It's ideal for projects with well-defined requirements and minimal expected changes, like building a compliance-driven financial system.
+
+- **Agile**: An iterative approach that allows for continuous feedback and adaptation throughout the development process. It’s suitable for projects where requirements might evolve, like developing a new mobile app where user feedback will shape future updates.
+
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
