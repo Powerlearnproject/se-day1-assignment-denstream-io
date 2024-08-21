@@ -58,6 +58,11 @@ Software Engineering Day1 Assignment
 
 - **Project complexity**:Break down tasks into smaller, manageable components and use modular programming.
 - **Rapid Changes**: To constantly watch up rapid technology changes. One way to solve this challenge is to commit to continuous learning through online courses, workshops, and reading industry literature.
+ - **Challenge: Keeping up with rapid technology changes.
+Strategy: Commit to continuous learning through online courses, workshops, and reading industry literature.
+
+- **Software quality**: The best solution is to Implement rigorous testing protocols, including automated testing and code reviews.
+
 
 ### 7. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
