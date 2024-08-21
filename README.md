@@ -83,5 +83,7 @@ Software Engineering Day1 Assignment
 ### 2. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 **Vague Prompt**: "Tell me about the weather."
+
 **Improved Prompt**: "What is the current temperature and weather condition in San Francisco?"
+
 **Why More Effective**: The improved prompt is specific and direct,which ensures that the AI provides relevant information about the exact location and aspects of the weather that were requested for 
