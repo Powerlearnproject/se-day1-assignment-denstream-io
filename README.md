@@ -39,10 +39,15 @@ Software Engineering Day1 Assignment
 - **Agile**: An iterative approach that allows for continuous feedback and adaptation throughout the development process. It’s suitable for projects where requirements might evolve, like developing a new mobile app where user feedback will shape future updates.
 
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+### 4. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+- **Software Developer**: Writes the code, implements features, and fixes bugs according to the project requirements.
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+- **Quality Assurance Engineer**: Tests the software to ensure it’s free of defects and meets the specified quality standards.
+
+- **Project Manager**: Oversees the project’s progress, coordinates between teams, manages timelines, and ensures that the project stays on track and within budget.
+
+### 5. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
