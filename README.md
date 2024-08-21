@@ -18,21 +18,21 @@ Software Engineering Day1 Assignment
 - **Agile Methodology (2001)**: This method marked a shift towards iterative development with a focus on customer collaboration and flexibility, transforming how software is built and adapted.
 
 
-List and briefly explain the phases of the Software Development Life Cycle.
+### 3. List and briefly explain the phases of the Software Development Life Cycle.
 
-### Gathering Requirements: This is the first stage of the process, it involves puting down the project/software specifications, based on customer needs or application requirements.
+- **Gathering Requirements**: This is the first stage of the process, it involves puting down the project/software specifications, based on customer needs or application requirements.
 
-### Design: This process involves creating high-level(human understandable) and detailed desi g of the software architecture, these details will serve as a blueprint for development.
+- **Design**: This process involves creating high-level(human understandable) and detailed desi g of the software architecture, these details will serve as a blueprint for development.
 
-### Implementation: This is when the developer writes code to build the software as per the requirements.
+- **Implementation**: This is when the developer writes code to build the software as per the requirements.
 
-### Testing: This process checks that the software works correctly and meets the requirements.
+- **Testing**: This process checks that the software works correctly and meets the requirements.
 
-### Deployment: At this stage the software is released to end users.
+- **Deployment**: At this stage the software is released to end users.
 
-### Maintenance: Updating and fixing software post-release
+- **Maintenance**: Updating and fixing software post-release
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+### 4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
